@@ -1,12 +1,24 @@
 body{
     background-color: pink;
+    
 }
 h1{
     background-color: green;
 }
 .head{
-    background-color: blue;
+    background-color: blue(23, 80, 50);
+    color: white;
+    letter-spacing: 20px;
+
 }
 .which{
     background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    word-spacing: 50px;
+}
+.apollo{
+    background-color: brown;
+    font-size: 50px;
+    
 }
