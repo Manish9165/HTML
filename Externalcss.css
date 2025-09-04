@@ -2,23 +2,30 @@ body{
     background-color: pink;
     
 }
-h1{
-    background-color: green;
-}
+
 .head{
     background-color: blue(23, 80, 50);
-    color: white;
+    color: black;
     letter-spacing: 20px;
 
 }
 .which{
-    background-color: aquamarine;
+    
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: underline;
     word-spacing: 50px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    padding: 10px; /*   border or content ke bich me distance  */
+   margin: 2px; /* border or dusre content ya border ke upr niche ki distance */
+   padding-left: 20px;
+   padding-bottom: 20px;
 }
 .apollo{
     background-color: brown;
     font-size: 50px;
+    
     
 }
