@@ -1,4 +1,4 @@
-h1{
+/*  h1{
     color: blue;
     border-style: dotted;
     border-left: 1px solid black ;
@@ -11,12 +11,26 @@ h1{
     border-top-right-radius: 20px;
     width:100px;
     height: 50px;
-    text-align: center;
-}
+    text-align: center; 
+} */
 #circle{
-    width: 200px;
-    width: 200px;
-    border: 2px solid crimson;
+    width: 150px;
+    height: 150px;
+   border: 2px solid;  /* WIDTH style and color  */
     border-radius: 50%;
-    margin-left: 200px;
+    margin-left: 50%;
+    border-style: groove;
+
 }
+
+/* .Okk{
+    color:aqua;
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+     justify-content: space-between;  
+     justify-content: space-around;  
+    gap: 20px;
+    justify-content: space-evenly;
+    align-items: center;
+} */
